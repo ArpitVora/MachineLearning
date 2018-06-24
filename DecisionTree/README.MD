@@ -8,6 +8,7 @@ In this process, we learn the actual working of decision tree. How to find the b
 DecisionTree_Trainer.py file generates DecisionTree_Classifier.py (classifier file) as output. When executed the classifier file, it firstly calculates the accuracy (Accuracy = 90 %) for the training data and then it considers the Testing data. Lastly. It writes csv file DecisionTree_Classifier_Full_data.csv – Testing data with the class classified by the classifier.
 
 When the results where compared with the J48 (Decision Tree) algorithm in WEKA it were almost the same. Below given is output from the WEKA:
-<p align="center">
-  <img src="E:\RIT\BDA\Hw5_DecisionTree\05.PNG" width="350"/>
-</p>
+
+![WEKA](06.PNG)
+
+![WEKA](07.PNG)
